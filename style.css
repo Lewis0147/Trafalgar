@@ -1,0 +1,26 @@
+body{
+    font-family: "Mulish", sans-serif;
+}
+.home-text{
+color: #1F1534;
+}
+.upper-div{
+    display: flex;
+    align-items: center;
+    gap: 10%;
+}
+.img-text{
+    width: 100%;
+}
+.img-container{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    padding-right: 10px;
+}
+
+.traflager-text{
+box-sizing: border-box;
+width: max-content;
+}
